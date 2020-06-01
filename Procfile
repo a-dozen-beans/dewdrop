@@ -1,1 +1,1 @@
-web: gunicorn dewdrop.dewdrop.wsgi
+web: gunicorn dewdrop.config.wsgi
